@@ -37,7 +37,6 @@ Este é um projeto que explora como as ferramentas de inteligência artificial p
 
 ## 📚 Recursos disponíveis
 - [📄 EBOOK completo em PDF](Como-as-IA-podem-ajudar-os-bancarios-no-dia-a-dia-do-trabalho.pdf)
-- **Imagens e gráficos**: disponíveis na pasta `assets`.
 
 
 ---
