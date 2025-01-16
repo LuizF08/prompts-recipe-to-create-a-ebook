@@ -5,7 +5,7 @@
 Este é um projeto que explora como as ferramentas de inteligência artificial podem transformar a rotina dos bancários, tornando os processos mais eficientes, seguros e centrados no cliente. Todo o conteúdo foi produzido utilizando ferramentas de IA, demonstrando seu poder e potencial no setor bancário.
 
 ## 🌐 Acesse o EBOOK
-[📖 Leia o EBOOK completo](ebook/Como-as-IA-podem-ajudar-os-bancarios-no-dia-a-dia-do-trabalho.pdf)
+[📖 Leia o EBOOK completo](Como-as-IA-podem-ajudar-os-bancarios-no-dia-a-dia-do-trabalho.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ Este é um projeto que explora como as ferramentas de inteligência artificial p
 ---
 
 ## 📚 Recursos disponíveis
-- [📄 EBOOK completo em PDF](ebook/Como-as-IA-podem-ajudar-os-bancarios-no-dia-a-dia-do-trabalho.pdf)
+- [📄 EBOOK completo em PDF](Como-as-IA-podem-ajudar-os-bancarios-no-dia-a-dia-do-trabalho.pdf)
 - **Imagens e gráficos**: disponíveis na pasta `assets`.
 
 
